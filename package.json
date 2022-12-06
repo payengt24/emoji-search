@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@types/emojione": "^2.2.6",
-    "emojione": "^4.5.0"
+    "emojione": "^4.5.0",
+    "react-native-shimmer": "^0.6.0"
   }
 }
